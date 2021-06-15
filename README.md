@@ -1,1 +1,1 @@
-# desafio-html-css
+Repositório criado para a postagem do desafio de html e css.
